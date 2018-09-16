@@ -1,0 +1,184 @@
+NEWISO: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+        2016 Jun 03 (Fri): 12:15:34
+        <<<<<<<<<<<<<<<<<<<<<<<<<<<
+        
+NEWISO: ===============================
+        Processing CAD model
+        Version 2014.0 (build 20140224)
+        2016 Jun 03 (Fri): 12:15:34
+        ===============================
+        
+==================================================================================================
+== CST Matrix Calculation Priority Log                                                          ==
+==================================================================================================
+ 
+Priorities are sorted in ascending order beginning with the lowest priority
+ 
+Priority:   1, shape   2: component1:solid Rogers, material: Rogers RT5880 (loss free)
+Priority:   2, shape   1: component1:solid Plaka, material: Copper (annealed)
+Priority:   2, shape   3: component1:solid1, material: Copper (annealed)
+Priority:   2, shape   4: component1:solid2, material: Copper (annealed)
+Priority:   2, shape   5: component1:solid3, material: Copper (annealed)
+Priority:   2, shape   6: component1:solid4, material: Copper (annealed)
+ 
+==================================================================================================
+ 
+NEWISO: =======================
+        Finished CAD processing
+        =======================
+        
+NEWISO: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+        2016 Jun 03 (Fri): 12:15:35
+        >>>>>>>>>>>>>>>>>>>>>>>>>>>
+        
+NEWISO: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+        2016 Jun 03 (Fri): 12:15:35
+        <<<<<<<<<<<<<<<<<<<<<<<<<<<
+        
+NEWISO: ===============================
+        Port preparation
+        Version 2014.0 (build 20140224)
+        2016 Jun 03 (Fri): 12:15:35
+        ===============================
+        
+NEWISO: ==========================
+        Finished port preparation.
+        ==========================
+        
+NEWISO: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+        2016 Jun 03 (Fri): 12:15:35
+        >>>>>>>>>>>>>>>>>>>>>>>>>>>
+        
+NEWISO: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+        2016 Jun 03 (Fri): 12:15:36
+        <<<<<<<<<<<<<<<<<<<<<<<<<<<
+        
+NEWISO: ==============================
+        Mesher selection: manual: FPBA
+        ==============================
+        
+NEWISO: =======================================
+        Matrix computation (FPBA)
+        	[FPBA accuracy enhancement is enabled]
+        Version 2014.0 (build 20140224)
+        2016 Jun 03 (Fri): 12:15:36
+        =======================================
+        
+NEWISO: ==================================
+        Finished matrix computation (FPBA)
+        ==================================
+        
+NEWISO: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+        2016 Jun 03 (Fri): 12:15:37
+        >>>>>>>>>>>>>>>>>>>>>>>>>>>
+        
+NEWISO: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+        2016 Jun 03 (Fri): 12:15:38
+        <<<<<<<<<<<<<<<<<<<<<<<<<<<
+        
+NEWISO: ==============================
+        Mesher selection: manual: FPBA
+        ==============================
+        
+NEWISO: =======================================
+        Matrix computation (FPBA)
+        	[FPBA accuracy enhancement is enabled]
+        Version 2014.0 (build 20140224)
+        2016 Jun 03 (Fri): 12:15:38
+        =======================================
+        
+NEWISO: ==================================
+        Finished matrix computation (FPBA)
+        ==================================
+        
+NEWISO: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+        2016 Jun 03 (Fri): 12:15:40
+        >>>>>>>>>>>>>>>>>>>>>>>>>>>
+        
+NEWISO: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+        2016 Jun 03 (Fri): 12:15:41
+        <<<<<<<<<<<<<<<<<<<<<<<<<<<
+        
+NEWISO: ==============================
+        Mesher selection: manual: FPBA
+        ==============================
+        
+NEWISO: =======================================
+        Matrix computation (FPBA)
+        	[FPBA accuracy enhancement is enabled]
+        Version 2014.0 (build 20140224)
+        2016 Jun 03 (Fri): 12:15:41
+        =======================================
+        
+NEWISO: ==================================
+        Finished matrix computation (FPBA)
+        ==================================
+        
+NEWISO: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+        2016 Jun 03 (Fri): 12:15:45
+        >>>>>>>>>>>>>>>>>>>>>>>>>>>
+        
+NEWISO: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+        2016 Jun 03 (Fri): 12:15:46
+        <<<<<<<<<<<<<<<<<<<<<<<<<<<
+        
+NEWISO: ============================================================================
+        Mesher selection: automatic: FPBA [support advanced surface impedance setup]
+        ============================================================================
+        
+NEWISO: ===============================
+        Processing CAD model
+        Version 2014.0 (build 20140224)
+        2016 Jun 03 (Fri): 12:15:47
+        ===============================
+        
+NEWISO: =======================
+        Finished CAD processing
+        =======================
+        
+NEWISO: 1xN000: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                2016 Jun 03 (Fri): 12:15:47
+                <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+NEWISO: 1xN000: =======================================
+                Matrix computation (FPBA)
+                	[FPBA accuracy enhancement is enabled]
+                Version 2014.0 (build 20140224)
+                2016 Jun 03 (Fri): 12:15:47
+                =======================================
+
+NEWISO: 1xN000: ==================================
+                Finished matrix computation (FPBA)
+                ==================================
+
+NEWISO: 1xN000: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                2016 Jun 03 (Fri): 12:15:53
+                >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+NEWISO: 1xN001: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                2016 Jun 03 (Fri): 12:15:47
+                <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+NEWISO: 1xN001: =======================================
+                Matrix computation (FPBA)
+                	[FPBA accuracy enhancement is enabled]
+                Version 2014.0 (build 20140224)
+                2016 Jun 03 (Fri): 12:15:47
+                =======================================
+
+NEWISO: 1xN001: ==================================
+                Finished matrix computation (FPBA)
+                ==================================
+
+NEWISO: 1xN001: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                2016 Jun 03 (Fri): 12:15:53
+                >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+NEWISO: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+        2016 Jun 03 (Fri): 12:15:54
+        >>>>>>>>>>>>>>>>>>>>>>>>>>>
+        

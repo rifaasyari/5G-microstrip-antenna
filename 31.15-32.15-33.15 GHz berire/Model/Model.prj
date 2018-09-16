@@ -1,0 +1,17 @@
+[Author]
+windows7
+[Mesh Cells]
+87,584
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:31-32-33ghz berire.cst?86304f65d2cda2b0d5385aa1d7abb200?67148:numberofparameters=15:port=1>mode=1>zre=50>zim=0:::l?l1?l2?l3?l4?l51?l52?w?w1?w2?w3?w4?w5?thicknes?thickness
+[Comment]
